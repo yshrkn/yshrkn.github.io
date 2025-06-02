@@ -1,0 +1,10 @@
+title: dev.memo
+description: エンジニアとしてのアウトプットを記録していくブログです。
+theme: minima
+baseurl: "/your-repo-name" # リポジトリ名
+defaults:
+  - scope:
+      path: "docs/_posts"
+      type: "posts"
+    values:
+      layout: post

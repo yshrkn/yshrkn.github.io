@@ -1,4 +1,7 @@
-# EvenオブジェクトのtargetとcurrentTargetの違いについて
+---
+title: EventオブジェクトのtargetとcurrentTargetの違いについて
+date: 2025-06-02
+---
 
 いつも忘れてしまうのでまとめておく。
 
@@ -28,5 +31,5 @@ function Button({ children }) {
 
 ## 参考
 
-[Event: target プロパティ](https://developer.mozilla.org/ja/docs/Web/API/Event/target)
-[Event: currentTarget プロパティ](https://developer.mozilla.org/ja/docs/Web/API/Event/currentTarget
+- [Event: target プロパティ](https://developer.mozilla.org/ja/docs/Web/API/Event/target)
+- [Event: currentTarget プロパティ](https://developer.mozilla.org/ja/docs/Web/API/Event/currentTarget)
