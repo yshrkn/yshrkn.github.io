@@ -1,7 +1,7 @@
 title: dev.memo
 description: エンジニアとしてのアウトプットを記録していくブログです。
 theme: minima
-baseurl: "/your-repo-name" # リポジトリ名
+baseurl: "/yshrkn.github.io" # リポジトリ名
 defaults:
   - scope:
       path: "docs/_posts"
