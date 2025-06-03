@@ -1,3 +1,4 @@
 title: dev.memo
 description: エンジニアとしてのアウトプットを記録していくブログです。
 theme: jekyll-theme-minimal
+baseurl: ""
