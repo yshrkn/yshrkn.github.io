@@ -1,6 +1,8 @@
 ---
-title: EventオブジェクトのtargetとcurrentTargetの違いについて
+layout: post
+title: "EventオブジェクトのtargetとcurrentTargetの違いについて"
 date: 2025-06-02
+categories: JavaScript
 ---
 
 いつも忘れてしまうのでまとめておく。

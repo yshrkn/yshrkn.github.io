@@ -1,6 +1,6 @@
 title: dev.memo
 description: エンジニアとしてのアウトプットを記録していくブログです。
-theme: minima
+theme: jekyll-theme-minimal
 defaults:
   - scope:
       path: "docs/_posts"
